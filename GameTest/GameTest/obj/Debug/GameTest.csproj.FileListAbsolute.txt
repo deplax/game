@@ -1,0 +1,9 @@
+c:\users\deplax\documents\visual studio 2013\Projects\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\deplax\Documents\Visual Studio 2013\Projects\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Users\deplax\Documents\Visual Studio 2013\Projects\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Users\deplax\Documents\Visual Studio 2013\Projects\GameTest\GameTest\obj\Debug\GameTest.csprojResolveAssemblyReference.cache
+C:\Users\deplax\Documents\Visual Studio 2013\Projects\GameTest\GameTest\obj\Debug\GameTest.Form1.resources
+C:\Users\deplax\Documents\Visual Studio 2013\Projects\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\deplax\Documents\Visual Studio 2013\Projects\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.Cache
+C:\Users\deplax\Documents\Visual Studio 2013\Projects\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Users\deplax\Documents\Visual Studio 2013\Projects\GameTest\GameTest\obj\Debug\GameTest.pdb
